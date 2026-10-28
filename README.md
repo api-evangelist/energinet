@@ -64,5 +64,17 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Energinet is a company surfaced via the API Evangelist harvest backlog (source: new-submission) and added to the network as a stub for full-pipeline profiling.
-- https://energinet.dk/
+Energinet is a state-owned Danish enterprise that owns and operates the country's electricity and gas transmission infrastructure. It ensures high supply security for electricity and gas across Denmark and contributes to an effective green transition. The company provides data and services related to energy system operation, market data, and grid information, supporting stakeholders in the energy sector.
+
+**Areas:** Company · Energy · Transmission · Grid · Denmark
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://energinet.dk/)
+- [Support](https://www.energinet.dk/alias/support/)
+
+## API Evangelist rating
+
+Not yet rated. See [apis.io/providers/energinet/](https://apis.io/providers/energinet/).
